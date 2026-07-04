@@ -43,7 +43,7 @@ voice-clone/
 ### 激活环境
 
 ```bash
-cd ~/ai/voice-clone
+cd voice-clone/
 source .venv/bin/activate
 ```
 
